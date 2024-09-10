@@ -15,17 +15,22 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zxd2219](https://github.com/zxd2219)
 
-- 📝 I regularly write articles on [zxd2219.nuxt.space](zxd2219.nuxt.space)
+- 📝 I regularly write articles on [zxd2219.nuxt.space](https://zxd2219.nuxt.space)
 
 - 💬 Ask me about **react, vue and nuxt**
 
 - 📫 How to reach me **2219454275@qq.com**
 
-- 📄 Know about my experiences [zxd2219.nuxt.space/resume](zxd2219.nuxt.space/resume)
+- 📄 Know about my experiences [zxd2219.nuxt.space/resume](https://zxd2219.nuxt.space/resume)
 
 - ⚡ Fun fact **I think I am upbeat**
 
 <h3 align="left">Connect with me:</h3>
+
+- [![Blog](https://static.is26.com/tmp/icons/blog.svg)](https://zxd2219.nuxt.space)[Blog zxd2219.nuxt.space](https://zxd2219.nuxt.space)
+- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/zxd2219)[Github: zxd2219](https://github.com/zxd2219)
+- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:2219454275@qq.com)[Mail: 2219454275@qq.com](mailto:2219454275@qq.com)
+
 <p align="left">
 </p>
 

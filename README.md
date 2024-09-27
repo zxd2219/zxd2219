@@ -44,4 +44,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxd2219&" alt="zxd2219" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 52 mins    ██████████████████████▒░░   89.56 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+SQL          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->

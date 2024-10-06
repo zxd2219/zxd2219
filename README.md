@@ -46,9 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java     5 mins          █████████████████████▓░░░   86.32 %
-Vue.js   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -1,7 +1,6 @@
 export default defineAppConfig({
-  // Configure Content Wind here
-  cover: '/cover.jpg',
-  socials: {
-    github: "zxd2219/zxd2219"
+  docus: {
+    title: "张旭东's Blog",
+    description: "张旭东的个人博客，分享一些学习经验",
   },
-})
+});

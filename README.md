@@ -46,10 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       38 mins         ██████████████░░░░░░░░░░░   56.13 %
-TypeScript   29 mins         ███████████░░░░░░░░░░░░░░   43.66 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

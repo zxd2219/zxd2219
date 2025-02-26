@@ -1,47 +1,51 @@
-<h1 align="center">Hi 👋, I'm XuDong Zhang</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+![👋 Hi, my name is XuDong Zhang](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zxd2219&label=Profile%20views&color=0e75b6&style=flat" alt="zxd2219" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=zxd2219&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zxd2219" alt="zxd2219" /></a> </p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is XuDong Zhang
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on [gull-ui](https://github.com/ucstu/gull-ui)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/zxd2219" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-- 🌱 I’m currently learning **D3.js**
+ **<h3 align="left">🚀 A passionate frontend developer from China</h3>**
 
-- 👯 I’m looking to collaborate on [gull-ui](https://github.com/ucstu/gull-ui)
+**<h3 align="left">Rapid Fire</h3>**
 
-- 🤝 I’m looking for help with [gull-ui](https://github.com/ucstu/gull-ui)
+- 💼 I'm currently working on: **💻 gull-ui**
+- 🌱 I'm currently learning: **📚 D3JS**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I think I am upbeat**
+- 📂 Portfolio: **<a href="zxd2219.nuxt.space/about" target="_blank">zxd2219.nuxt.space/about</a>**
+- 📝 Blog: **<a href="zxd2219.nuxt.space" target="_blank">zxd2219.nuxt.space</a>**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zxd2219](https://github.com/zxd2219)
 
-- 📝 I regularly write articles on [zxd2219.nuxt.space](https://zxd2219.nuxt.space)
+ **<h3 align="left">Skills</h3>**
 
-- 💬 Ask me about **react, vue and nuxt**
+<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" alt="React"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="32" alt="Vue.js"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="Sass"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="32" alt="Vite"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="32" alt="Node.js"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="32" alt="Spring"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="32" alt="FastAPI"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="32" alt="NestJs"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React Native"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="32" alt="Git"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32" alt="Visual Studio"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" alt="Next.js"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="32" alt="NuxtJs"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="32" alt="Unity"/></td></tr></table>
 
-- 📫 How to reach me **2219454275@qq.com**
-
-- 📄 Know about my experiences [zxd2219.nuxt.space/resume](https://zxd2219.nuxt.space/resume)
-
-- ⚡ Fun fact **I think I am upbeat**
-
-<h3 align="left">Connect with me:</h3>
-
-- [![Blog](https://static.is26.com/tmp/icons/blog.svg)](https://zxd2219.nuxt.space)[Blog zxd2219.nuxt.space](https://zxd2219.nuxt.space)
-- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/zxd2219)[Github: zxd2219](https://github.com/zxd2219)
-- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:2219454275@qq.com)[Mail: 2219454275@qq.com](mailto:2219454275@qq.com)
+ **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zxd2219" alt="zxd2219" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zxd2219&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=zxd2219&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxd2219&show_icons=true&locale=en&layout=compact" alt="zxd2219" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zxd2219&show_icons=true&locale=en" alt="zxd2219" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxd2219&" alt="zxd2219" /></p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxd2219&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&locale=en" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zxd2219&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=false" alt="GitHub repo-card Card" />
+</p>
 
 <!--START_SECTION:waka-->
 

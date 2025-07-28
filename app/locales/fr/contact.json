@@ -1,0 +1,33 @@
+{
+  "title": "Contactez moi",
+  "description": "Discutons de votre idée, projet ou de tout autre chose !",
+  "fullname": "Nom complet",
+  "email": "Email",
+  "phone": "Téléphone",
+  "subject": "Sujet de votre message",
+  "message": "Message",
+  "submit": "Envoyer",
+  "disabled": "Vous devez définir votre clé d'API resend",
+  "success": "Votre message a été envoyé avec succès",
+  "error": "Oups, une erreur s'est produite lors de l'envoi de votre message :(",
+  "budget": "Budget",
+  "subject_types": {
+    "project": "Parler d'un projet",
+    "bug": "Signaler un bug",
+    "question": "Poser une question",
+    "other": "Autre"
+  },
+  "placeholders": {
+    "fullname": "Jean Dupont",
+    "email": "jean.dupont@example.com",
+    "phone": "01-23-45-67-89",
+    "subject": "Entrez le sujet de votre message",
+    "message": "Travaillons ensemble !"
+  },
+  "validation": {
+    "email": "Email invalide",
+    "message": "Le message est trop court",
+    "subject": "Le sujet est trop court",
+    "fullname": "Le nom est trop court"
+  }
+}

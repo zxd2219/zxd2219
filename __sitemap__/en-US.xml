@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://zxd2219.nuxt.space/en</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://avatars.githubusercontent.com/u/25812161?s=48&amp;amp;v=4</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/about</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/about" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/about" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/about" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/about" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://avatars.githubusercontent.com/u/25812161?s=48&amp;amp;v=4</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/contact</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/contact" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/contact" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/contact" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/contact" hreflang="fr-FR" />
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/works</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/works" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/works" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/works" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/works" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/canvas.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/helpr.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/hr-folio.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/maison-hochard.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/mockline.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/nuxtlog.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/projects/shelve.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/writing</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/writing" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/writing" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/writing" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/writing" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/articles/5-raycast-snippets.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/articles/trap-of-perfection.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/articles/5-amazing-raycast-nuxt-snippets</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/articles/5-amazing-raycast-nuxt-snippets" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/articles/5-amazing-raycast-nuxt-snippets" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/articles/5-amazing-raycast-nuxt-snippets" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/articles/5-amazing-raycast-nuxt-snippets" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/articles/5-raycast-snippets.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/articles/snippets-exemple.gif</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/articles/launch-your-portfolio</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/articles/launch-your-portfolio" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/articles/launch-your-portfolio" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/articles/launch-your-portfolio" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/articles/launch-your-portfolio" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/articles/launch-your-porfolio.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://zxd2219.nuxt.space/en/articles/not-an-impostor</loc>
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/articles/not-an-impostor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/zh_cn/articles/not-an-impostor" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/en/articles/not-an-impostor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://zxd2219.nuxt.space/fr/articles/not-an-impostor" hreflang="fr-FR" />
+        <image:image>
+            <image:loc>https://zxd2219.nuxt.space/_ipx/_/articles/trap-of-perfection.jpg</image:loc>
+        </image:image>
+    </url>
+</urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-07-28T08:59:13.658Z -->

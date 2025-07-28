@@ -1,0 +1,6 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: https://zxd2219.nuxt.space/sitemap_index.xml
+# END nuxt-robots

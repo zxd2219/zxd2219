@@ -11,9 +11,9 @@ const { data: articles } = await useAsyncData(
   "articles-" + locale.value,
   async () => {
     const collection = ("articles_" + locale.value) as keyof Collections;
-    return (await queryCollection(collection).all()) as
-      | Collections["articles_en"][]
-      | Collections["articles_fr"][];
+    return (await queryCollection(
+      collection,
+    ).all()) as Collections[`articles_${typeof locale.value}`][];
   },
   {
     watch: [locale],
@@ -44,6 +44,12 @@ const toggleTag = (tag: string) => {
   searchedTags.value = searchedTags.value.includes(tag)
     ? searchedTags.value.filter((t) => t !== tag)
     : [...searchedTags.value, tag];
+};
+
+const route = useRoute();
+const getPath = (path: string) => {
+  const isPrefixed = route.path.startsWith(`/${locale.value}`);
+  return isPrefixed ? path : path.replace(`/${locale.value}`, "");
 };
 </script>
 
@@ -97,7 +103,7 @@ const toggleTag = (tag: string) => {
           :title="article.title"
           :date="article.date"
           :image="article.image"
-          :path="article.path"
+          :path="getPath(article.path)"
         />
       </li>
     </TransitionGroup>

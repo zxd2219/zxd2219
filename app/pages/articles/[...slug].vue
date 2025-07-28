@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import type { Collections } from "@nuxt/content";
-import { withLeadingSlash, joinURL } from "ufo";
+import { joinURL, withLeadingSlash } from "ufo";
 
 const route = useRoute();
 const { locale, t, localeProperties } = useI18n();
@@ -20,9 +20,9 @@ const collection = computed(
 const { data: page } = await useAsyncData(
   path.value,
   async () =>
-    (await queryCollection(collection.value).path(path.value).first()) as
-      | Collections["articles_en"]
-      | Collections["articles_fr"],
+    (await queryCollection(collection.value)
+      .path(path.value)
+      .first()) as Collections[`articles_${typeof locale.value}`],
 );
 
 if (!page.value)

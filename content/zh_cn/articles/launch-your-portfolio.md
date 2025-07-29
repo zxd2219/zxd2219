@@ -7,7 +7,7 @@ tags:
   - 开发
   - 设计
   - 生产力
-image: https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg
+image: https://zxd2219.nuxt.space/articles/launch-your-porfolio.jpg
 readingTime: "5"
 ---
 

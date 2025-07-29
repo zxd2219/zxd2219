@@ -5,7 +5,7 @@ description: "在内容创作的舞台上，许多人在后台低声说着一句
 tags:
   - 创作
   - 生产力
-image: https://canvas.hrcd.fr/articles/trap-of-perfection.jpg
+image: https://zxd2219.nuxt.space/articles/trap-of-perfection.jpg
 readingTime: "3"
 ---
 

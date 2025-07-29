@@ -10,7 +10,7 @@ tags:
   - Développement
   - Design
   - Productivité
-image: https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg
+image: https://zxd2219.nuxt.space/articles/launch-your-porfolio.jpg
 readingTime: "5"
 ---
 

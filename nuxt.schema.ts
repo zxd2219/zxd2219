@@ -65,44 +65,6 @@ export default defineNuxtSchema({
         }),
       },
     }),
-    seo: group({
-      title: "SEO",
-      description: "SEO configuration",
-      icon: "lucide:search",
-      fields: {
-        title: field({
-          type: "string",
-          title: "Title",
-          description:
-            "Title of your website (used in the preview of your website).",
-          icon: "lucide:title",
-          default: "My website",
-        }),
-        description: field({
-          type: "string",
-          title: "Description",
-          description:
-            "Description of your website (used in the preview of your website).",
-          icon: "lucide:description",
-          default: "My website description",
-        }),
-        url: field({
-          type: "string",
-          title: "URL",
-          description: "Public URL of your website.",
-          icon: "lucide:link",
-          default: "https://mywebsite.com",
-        }),
-        lang: field({
-          type: "string",
-          title: "Language",
-          description: "The language that you want to use for your website.",
-          icon: "lucide:language",
-          default: "en",
-          required: ["zh_cn", "en", "fr"],
-        }),
-      },
-    }),
     socials: group({
       title: "Socials",
       description: "Socials configuration",

@@ -4,11 +4,8 @@ import type {
   ContentFrCollectionItem,
 } from "@nuxt/content";
 
-useScriptPlausibleAnalytics({
-  domain: "canvas.hrcd.fr",
-  scriptInput: {
-    src: "https://analytics.hrcd.fr/js/script.js",
-  },
+useScriptCloudflareWebAnalytics({
+  token: "7d86677fa0ea42fd85616c341c27ffe4",
 });
 
 const { page, isWriting } = defineProps<{
@@ -17,27 +14,28 @@ const { page, isWriting } = defineProps<{
 }>();
 
 const route = useRoute();
-const { link, seo, profile } = useAppConfig();
+const { t } = useI18n();
+const { link, profile } = useAppConfig();
 
 const pageSEO = computed(() => ({
-  title: isWriting ? page?.title : page?.title || seo.title,
+  title: isWriting ? page?.title : page?.title || t("global.app_title"),
   description: isWriting
     ? page?.description
-    : page?.description || seo.description,
+    : page?.description || t("global.app_description"),
 }));
 
 const getTitleTemplate = (title: string | undefined) => {
-  if (route.path === "/") return title || `${seo.title}`;
+  if (route.path === "/") return title || `${t("global.app_title")}`;
   if (isWriting) return title;
-  return `${title} | ${seo.title}`;
+  return `${title} | ${t("global.app_title")}`;
 };
 
 useSeoMeta({
-  ogSiteName: seo.title,
+  ogSiteName: t("global.app_title"),
   ogTitle: pageSEO.value.title,
   ogDescription: pageSEO.value.description,
   ogType: isWriting ? "article" : "website",
-  ogUrl: seo.url,
+  ogUrl: "https://zxd2219.nuxt.space",
   author: profile.name,
   title: pageSEO.value.title,
   description: pageSEO.value.description,
@@ -59,7 +57,7 @@ useHead({
 });
 
 defineOgImage({
-  url: "https://canvas.hrcd.fr/og.png",
+  url: "https://zxd2219.nuxt.space/og.png",
   width: 1200,
   height: 630,
   alt: "Home image",

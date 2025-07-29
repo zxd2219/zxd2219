@@ -17,12 +17,6 @@ export default defineAppConfig({
     instagram: "",
     spotify: "",
   },
-  seo: {
-    title: "My Portfolio",
-    description:
-      "A portfolio showcasing my work and skills as a frontend developer.",
-    url: "https://zxd2219.nuxt.space",
-  },
   ui: {
     colors: {
       primary: "emerald",

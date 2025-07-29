@@ -7,7 +7,7 @@ tags:
   - Vue
   - Raycast
   - 生产力
-image: https://canvas.hrcd.fr/articles/5-raycast-snippets.jpg
+image: https://zxd2219.nuxt.space/articles/5-raycast-snippets.jpg
 readingTime: "10"
 ---
 

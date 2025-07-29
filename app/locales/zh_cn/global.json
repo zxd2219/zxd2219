@@ -1,5 +1,6 @@
 {
-  "app_description": "Canvas 是一个简洁而美观的作品集模板，专为设计师和开发者打造，使用 Nuxt 和 Tailwind CSS 构建。由 HugoRCD 用 ❤️ 制作",
+  "app_title": "我的个人资料",
+  "app_description": "展示我的前端开发技能和项目的个人资料",
   "copied_to_clipboard": "已复制到剪贴板",
   "article_link_copied": "文章链接已复制到剪贴板",
   "email_copied": "邮箱地址已复制到剪贴板",

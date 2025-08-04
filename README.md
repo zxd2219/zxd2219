@@ -32,78 +32,78 @@
 <table style="width: 100%; border: 0px solid white;">
   <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 32px" alt="JavaScript"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 32px" alt="TypeScript"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 32px" alt="Python"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 32px" alt="Java"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 32px" alt="C#"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" alt="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="height: 32px" alt="React"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="32" alt="Vue.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="height: 32px" alt="Vue.js"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="height: 32px" alt="HTML5"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="height: 32px" alt="CSS3"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-ori ginal.svg" height="32" alt="Sass"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-ori ginal.svg" style="height: 32px" alt="Sass"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="32" alt="Vite"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="height: 32px" alt="Vite"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="32" alt="Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="height: 32px" alt="Node.js"/>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="32" alt="Spring"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" style="height: 32px" alt="Spring"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="32" alt="FastAPI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" style="height: 32px" alt="FastAPI"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="32" alt="NestJs"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" style="height: 32px" alt="NestJs"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 32px" alt="MySQL"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React Native"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 32px" alt="React Native"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="height: 32px" alt="Docker"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="32" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="height: 32px" alt="Git"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32" alt="Visual Studio"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="height: 32px" alt="Visual Studio"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height: 32px" alt="VSCode"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" alt="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" style="height: 32px" alt="Next.js"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="32" alt="NuxtJs"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" style="height: 32px" alt="NuxtJs"/>
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="32" alt="Unity"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" style="height: 32px" alt="Unity"/>
     </td>
   </tr>
 </table>
@@ -121,17 +121,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxd2219&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&locale=en" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zxd2219&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=false" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ucstu&repo=meeting-room&theme=react&show_owner=true" alt="GitHub top-langs Card" />
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-Vue.js       23 hrs 6 mins   ██████████████▒░░░░░░░░░░   57.58 %
-TypeScript   12 hrs 25 mins  ███████▓░░░░░░░░░░░░░░░░░   30.94 %
-Markdown     1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JSON         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Bash         46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-```
-
-<!--END_SECTION:waka-->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@zxd2219&layout=compact&theme=react" alt="Wakatime Card" />

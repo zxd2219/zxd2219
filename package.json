@@ -37,6 +37,6 @@
     "@nuxt/eslint-config": "1.7.1",
     "automd": "0.4.0",
     "eslint": "9.31.0",
-    "wrangler": "^4.26.0"
+    "wrangler": "^4.59.1"
   }
 }
